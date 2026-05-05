@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=timeGradient&height=300&section=header&text=Hi,%20I'm%20Tuan%20Tran%20👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Future%20Bridge%20Software%20Engineer%20(BrSE)&descAlignY=55&descSize=25" />
 </p>
